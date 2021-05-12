@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.javaproject.JavaprojectPlugin</id>
+    <class>com.ssrs.javaproject.JavaprojectPlugin</class>
+    <name>javaproject</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>javaproject</description>
+
+</plugin>
